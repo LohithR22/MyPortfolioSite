@@ -60,7 +60,7 @@ yarn dev
 ## 📝 Project Structure
 
 ```
-Lovable_portfolio/
+My_portfolio/
 ├── public/
 │   └── profile.jpg
 ├── src/
@@ -77,6 +77,7 @@ Lovable_portfolio/
 ├── package.json
 └── README.md
 ```
+
 ---
 
 ## 📄 License
